@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sample NotePad using parameterize in Windows objects</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcd3943a-c22f-40ab-92cd-351e7972d2ce</testCaseGuid>
+   <variable>
+      <defaultValue>'Text Editor'</defaultValue>
+      <description></description>
+      <id>e2d4cfc7-0150-42a4-9f24-5a1a8758c0b7</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Close'</defaultValue>
+      <description></description>
+      <id>1470cc08-b3ea-49db-9568-4179d229a619</id>
+      <masked>false</masked>
+      <name>nameofCloseButton</name>
+   </variable>
+</TestCaseEntity>
